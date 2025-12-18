@@ -7,6 +7,10 @@ Agricultural productivity remains central to food security, economic stability, 
 
 This project analyzes the **relationship between pesticide usage and crop yields** over time and applies **time-series forecasting and machine learning techniques** to project future crop yields up to **2030**.
 
+---
+Link to view the notebook: https://nbviewer.org/github/BrentOchieng/crop-yield-prediction-with-pesticide-data/blob/main/pesticide_usage_and_crop_analysis_trend_in_kenya_.ipynb
+---
+
 The project combines:
 - Exploratory Data Analysis (EDA)
 - Time-series forecasting using **Facebook Prophet**
